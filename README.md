@@ -48,7 +48,8 @@
 ## Output:
 ![Screenshot 2024-12-10 135243](https://github.com/user-attachments/assets/a34ffe20-9584-4f95-8bbe-d83261001040)
 ![Screenshot 2024-12-10 135254](https://github.com/user-attachments/assets/2f044c31-be0f-4fe9-886b-a23e93ec34fa)
-![Screenshot 2024-12-10 135305](https://github.com/user-attachments/assets/38367ac3-f54a-48f7-8e59-b588f6cb4285)
+![Screenshot 2024-12-10 135305](https://github.com/user-attachments/assets/c2465bab-6041-4dec-9a2f-3121afa1b2fa)
+
 
 
 ### Name:Dhanussh Elango
